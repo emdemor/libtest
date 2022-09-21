@@ -1,11 +1,11 @@
 from setuptools import setup
-from optym import __version__
+from libtest import __version__
 
 with open("README.md", "r") as fh:
     readme = fh.read()
 
 setup(
-    name="optym",
+    name="libtest",
     version=__version__,
     # url="",
     license="MIT License",
@@ -15,6 +15,6 @@ setup(
     author_email="emdemor415@gmail.com",
     keywords="",
     description=u"Some optimization functions",
-    packages=["optym"],
+    packages=["libtest"],
     install_requires=["numpy", "pandas", "setuptools"],
 )
