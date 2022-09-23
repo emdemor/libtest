@@ -11,3 +11,4 @@
 9. Nona alteração - Edu-R-Du
 10. Décima alteração - Edu-R-Du
 11. Décima Primeira - Edu - R- Du
+12. Décima segunda - emdemor
