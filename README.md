@@ -10,3 +10,4 @@
 8. Oitava alteração - Edu-R-du
 9. Nona alteração - Edu-R-Du
 10. Décima alteração - Edu-R-Du
+11. Décima Primeira - Edu - R- Du
